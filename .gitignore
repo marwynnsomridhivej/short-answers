@@ -1,6 +1,2 @@
 .vscode
-<<<<<<< HEAD
-*.json
-=======
 *.code-workspace
->>>>>>> a851573... added gitignore
