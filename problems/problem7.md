@@ -25,14 +25,14 @@ This produces a string value where each element of `iterable` is "stitched"
 together using the `sep` value to separate them. For example:
 
 ```python
-print(" ".join(str(num) for num in range(1, 11)))
->>> 1 2 3 4 5 6 7 8 9 10
+>>> print(" ".join(str(num) for num in range(1, 11)))
+1 2 3 4 5 6 7 8 9 10
 
-print(", ".join(str(num) for num in range(1, 11)))
->>> 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
+>>> print(", ".join(str(num) for num in range(1, 11)))
+1, 2, 3, 4, 5, 6, 7, 8, 9, 10
 
-print(" | ".join(str(num) for num in range(1, 11)))
->>> 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
+>>> print(" | ".join(str(num) for num in range(1, 11)))
+1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10
 ```
 
 Notice how the separator is only inserted *between* values. This means that it

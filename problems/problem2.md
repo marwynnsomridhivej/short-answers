@@ -10,14 +10,14 @@ a tuple of tuples containing the prime factorisation in the following form:
 > For each unique prime factor, create a tuple with the value `(factor, power)`,
 > where `factor` is the unique prime factor and `power` is the power of that factor. For example
 > ```python
-> print(prime_factorisation(12))
-> print(prime_factorisation(864))
-> print(prime_factorisation(23))
-> print(prime_factorisation(1000000))
-> >>> ((2, 2), (3, 1))
-> >>> ((2, 5), (3, 3))
-> >>> ((23, 1))
-> >>> ((2, 6), (5, 6))
+> >>> print(prime_factorisation(12))
+> ((2, 2), (3, 1))
+> >>> print(prime_factorisation(864))
+> ((2, 5), (3, 3))
+> >>> print(prime_factorisation(23))
+> ((23, 1))
+> >>> print(prime_factorisation(1000000))
+> ((2, 6), (5, 6))
 
 \* *Note: Using the [Sieve of Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes)
 can be very helpful in reducing computation times. Using a modified version 

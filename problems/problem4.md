@@ -58,12 +58,15 @@ def print_range():
 
 if __name__ == "__main__":
     print_range()
+```
 
->>> Before execution
->>> 1
->>> ...
->>> 9999
->>> Done
+Output:
+```
+Before execution
+1
+...
+9999
+Done
 ```
 
 Complete the definition for `duration` and `decorator` that would allow you to
