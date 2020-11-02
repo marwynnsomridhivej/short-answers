@@ -22,9 +22,8 @@ For just one function, adding in this code isn't a big deal at all. However, the
 amount of space taken up by something like this can add up if you want to see 
 how long many functions take.
 
-A solution to this is to implement a function that accepts a function that accepts
-another function as its argument. That way, we can recycle the code to calculate 
-how long a function runs.
+A solution to this is to implement a function that accepts another function as 
+its argument. That way, we can recycle the code to calculate how long a function runs.
 
 Write a function that functions as described in the above paragraph. It should
 take another function as its only argument (in this case, the function will be
