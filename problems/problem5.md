@@ -35,3 +35,9 @@ instance of `Item`. Extract the following from the long list `items`:
 In order to perform the extractions, you will write one function that is capable
 of performing these extractions. It must be able to handle all of these cases on
 its own. You cannot use `operator.attrgetter`, but you may and should use `getattr`
+
+[Next Problem](problem6.md)
+
+[Previous Problem](problem4.md)
+
+[Back to Problems List](../README.md)

@@ -73,3 +73,9 @@ Complete the definition for `duration` and `decorator` that would allow you to
 track the execution time for a function decorated with `@duration`. Optionally,
 you can also include a definition for `async def` functions inside `duration` 
 so that the decorator works for both regular and asynchronous functions
+
+[Next Problem](problem5.md)
+
+[Previous Problem](problem3.md)
+
+[Back to Problems List](../README.md)

@@ -19,3 +19,9 @@ def string_sum(text: str) -> int:
 ```
 
 Define `string_sum`
+
+[Next Problem](problem9.md)
+
+[Previous Problem](problem7.md)
+
+[Back to Problems List](../README.md)

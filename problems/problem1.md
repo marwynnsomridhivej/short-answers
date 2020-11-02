@@ -34,3 +34,7 @@ following conditions:
 Once you have gathered the elements in the list that match those constraints, 
 set each element's index in the gathered list equal to its current index in the
 gathered list
+
+[Next Problem](problem2.md)
+
+[Back to Problems List](../README.md)

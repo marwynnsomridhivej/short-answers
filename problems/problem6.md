@@ -73,3 +73,9 @@ implement a solution under the boilerplate such that:
 > an `else` block after it
 
 You are strongly encouraged to use `getattr`
+
+[Next Problem](problem7.md)
+
+[Previous Problem](problem5.md)
+
+[Back to Problems List](../README.md)

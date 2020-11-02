@@ -49,3 +49,9 @@ Using `join`, do the following:
 > 4. Print your full name in reverse ***without*** using string slicing
 
 \* *It is possible to do all of these in just 4 lines, 1 line for each statement*
+
+[Next Problem](problem8.md)
+
+[Previous Problem](problem6.md)
+
+[Back to Problems List](../README.md)

@@ -30,3 +30,9 @@ Write a function that functions as described in the above paragraph. It should
 take another function as its only argument (in this case, the function will be
 `print_range` as defined normally), execute the function, and print to console
 the time it took to execute the function.
+
+[Next Problem](problem4.md)
+
+[Previous Problem](problem2.md)
+
+[Back to Problems List](../README.md)

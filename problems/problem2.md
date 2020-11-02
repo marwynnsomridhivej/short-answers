@@ -26,3 +26,9 @@ a tuple of tuples containing the prime factorisation in the following form:
 can be very helpful in reducing computation times. Using a modified version 
 combined with numpy allows for computing the prime factors of 1,000,000 in less
 than a second*
+
+[Next Problem](problem3.md)
+
+[Previous Problem](problem1.md)
+
+[Back to Problems List](../README.md)
