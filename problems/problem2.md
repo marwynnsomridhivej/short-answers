@@ -12,10 +12,13 @@ a tuple of tuples containing the prime factorisation in the following form:
 > ```python
 > >>> print(prime_factorisation(12))
 > ((2, 2), (3, 1))
+> 
 > >>> print(prime_factorisation(864))
 > ((2, 5), (3, 3))
+> 
 > >>> print(prime_factorisation(23))
 > ((23, 1))
+> 
 > >>> print(prime_factorisation(1000000))
 > ((2, 6), (5, 6))
 
