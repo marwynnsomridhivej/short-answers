@@ -12,5 +12,6 @@ Some problems made by me in order to introduce concepts of Python to my friends
 | [Problem 5](./problems/problem5.md) |     4      |    TBD    |
 | [Problem 6](./problems/problem6.md) |     4      |    TBD    |
 | [Problem 7](./problems/problem7.md) |     2      |    TBD    |
+| [Problem 8](./problems/problem8.md) |     3      |    TBD    |
 
 \* *Solutions coming soon*
